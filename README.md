@@ -1,3 +1,4 @@
-# 1st-Project-on-Data-Camp-Using-JUPYTER-Notebook
-This is my first project on Data Camp using Jupyter Notebook.
-This project is about Data Visualization,Data Manipulation,Importing and Cleaning Data.
+In this repository I have uploaded all projects accomplished from Data Camp 
+Data Camp is online learning platfrom .
+DataCamp offers interactive R, Python, Sheets, SQL and shell courses.
+All on topics in data science, statistics and machine learning.
